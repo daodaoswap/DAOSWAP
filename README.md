@@ -1,0 +1,7 @@
+# DAOSWAP DOC FILE CONVERTED FROM CHINESE TO ENGLISH
+Daoswap is working on integration of 
+
+1) I have dedicate almost 5 hrs to do this, if DAOSWAP community wants me to edit/add some details into the file: please let me know
+2) There are two figures in doc, can i please have canva of both of them so i can edit them also.
+
+Thank you
